@@ -38,6 +38,7 @@ namespace Test {
                 Thread.Sleep(30);
                 form.CurValue = i + 1;
             }
+            form.Hide();
             MessageBox.Show("完成");
         }
     }
