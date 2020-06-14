@@ -1,0 +1,10 @@
+D:\C#Program\ProgressBarForm\ProgressBarForm\bin\Debug\ProgressBarForm.exe.config
+D:\C#Program\ProgressBarForm\ProgressBarForm\bin\Debug\ProgressBarForm.exe
+D:\C#Program\ProgressBarForm\ProgressBarForm\bin\Debug\ProgressBarForm.pdb
+D:\C#Program\ProgressBarForm\ProgressBarForm\obj\Debug\ProgressBarForm.csprojAssemblyReference.cache
+D:\C#Program\ProgressBarForm\ProgressBarForm\obj\Debug\ProgressBarForm.MyProgressForm.resources
+D:\C#Program\ProgressBarForm\ProgressBarForm\obj\Debug\ProgressBarForm.Properties.Resources.resources
+D:\C#Program\ProgressBarForm\ProgressBarForm\obj\Debug\ProgressBarForm.csproj.GenerateResource.cache
+D:\C#Program\ProgressBarForm\ProgressBarForm\obj\Debug\ProgressBarForm.csproj.CoreCompileInputs.cache
+D:\C#Program\ProgressBarForm\ProgressBarForm\obj\Debug\ProgressBarForm.exe
+D:\C#Program\ProgressBarForm\ProgressBarForm\obj\Debug\ProgressBarForm.pdb
